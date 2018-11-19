@@ -5,7 +5,7 @@
 2. tidy_data.txt - finale dataset file in .txt format
 3. r_analysis.r - an R script file with the code of prosedure
 
-## A brief description of the script (of r_analysis.r)
+## A brief description of the script (of run_analysis.r)
 The run_analysis.R script merges data from a number of .txt files and produces a tidy data set which may be used for further analysis.
 
 First it reads all required .txt files and labels the datasets
